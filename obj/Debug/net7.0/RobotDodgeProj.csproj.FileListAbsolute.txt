@@ -1,0 +1,14 @@
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\bin\Debug\net7.0\RobotDodgeProj.exe
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\bin\Debug\net7.0\RobotDodgeProj.deps.json
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\bin\Debug\net7.0\RobotDodgeProj.runtimeconfig.json
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\bin\Debug\net7.0\RobotDodgeProj.dll
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\bin\Debug\net7.0\RobotDodgeProj.pdb
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\obj\Debug\net7.0\RobotDodgeProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\obj\Debug\net7.0\RobotDodgeProj.AssemblyInfoInputs.cache
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\obj\Debug\net7.0\RobotDodgeProj.AssemblyInfo.cs
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\obj\Debug\net7.0\RobotDodgeProj.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\obj\Debug\net7.0\RobotDodgeProj.dll
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\obj\Debug\net7.0\refint\RobotDodgeProj.dll
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\obj\Debug\net7.0\RobotDodgeProj.pdb
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\obj\Debug\net7.0\RobotDodgeProj.genruntimeconfig.cache
+C:\Users\Abdul Algorithm\Desktop\RobotDodgeProj\obj\Debug\net7.0\ref\RobotDodgeProj.dll
